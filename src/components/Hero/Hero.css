@@ -1,0 +1,33 @@
+.hero {
+    text-align: center;
+    padding: 100px 20px;
+    background: #f4f4f4;
+    color: #333;
+  }
+  
+  .hero h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+  }
+  
+  .hero p {
+    font-size: 20px;
+    margin-bottom: 30px;
+  }
+  
+  .hero .buy-button {
+    padding: 15px 30px;
+    font-size: 18px;
+    background: #686868;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform 0.2s, background-color 0.3s;
+  }
+  
+  .hero .buy-button:hover {
+    transform: scale(1.1);
+    background: #1b1b1b;
+  }
+  
