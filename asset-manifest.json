@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/landing2/static/css/main.72df3794.css",
+    "main.js": "/landing2/static/js/main.2c51aed6.js",
+    "static/media/cowboy-4-black-1488x840.png": "/landing2/static/media/cowboy-4-black-1488x840.7ac19b9e1b4578110334.png",
+    "static/media/bike1.webp": "/landing2/static/media/bike1.b77e3554d8e4236f6125.webp",
+    "index.html": "/landing2/index.html",
+    "main.72df3794.css.map": "/landing2/static/css/main.72df3794.css.map",
+    "main.2c51aed6.js.map": "/landing2/static/js/main.2c51aed6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72df3794.css",
+    "static/js/main.2c51aed6.js"
+  ]
+}
